@@ -28,7 +28,7 @@ This project is implement a basic converter temperature app to learn about Amazo
 ## Build With
 * [Maven](https://maven.apache.org/) - Dependency Management
 * CircleCI for CI 
-  [![CircleCI](https://circleci.com/gh/angipaola10/AREP-LAB2.svg?style=svg)](https://circleci.com/gh/angipaola10/AREP-LAB2)
+  [![CircleCI](https://circleci.com/gh/angipaola10/AREP-LAB7.svg?style=svg)](https://circleci.com/gh/angipaola10/AREP-LAB7)
 * [Spark](http://sparkjava.com/) - Spark Java Framework
 
 ## Documentation
